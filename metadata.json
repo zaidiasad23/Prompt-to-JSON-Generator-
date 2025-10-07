@@ -1,0 +1,5 @@
+{
+  "name": "Prompt to JSON Generator",
+  "description": "An AI-powered tool to enhance video prompts and generate structured JSON output.",
+  "requestFramePermissions": []
+}
